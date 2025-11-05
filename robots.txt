@@ -3,5 +3,5 @@ User-agent: googlebot-image
 Disallow: 
 User-agent: *
 Disallow: 
-Disallow: https://siva-digital-marketing.netlify.app/404
-Sitemap: https://siva-digital-marketing.netlify.app/
+Disallow: https://siva-sivadigital.netlify.app/404
+Sitemap: https://siva-sivadigital.netlify.app/
